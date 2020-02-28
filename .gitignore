@@ -1,2 +1,4 @@
 *~
 *.log
+*.css.map
+/files/.sass-cache/
