@@ -1,0 +1,25 @@
+/* Format table <caption> */
+
+caption {
+  caption-side: top;
+
+  text-align: left;
+  margin-top: 1em;
+  margin-bottom: 0.75em;
+  font-weight: normal;
+  font-size: 2.5em;  /* like h1 */
+
+}
+
+table, tbody, tr, td {
+  padding-top    : 0em !important;
+  padding-bottom : 0em !important;
+  padding-left   : 0em !important;
+  padding-right  : 1em !important;
+  border         : none !important;
+  border-top     : none !important;
+  border-bottom  : none !important;
+  border-left    : none !important;
+  border-right   : none !important;
+  border-collapse: collapse;
+}
