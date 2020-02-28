@@ -1,14 +1,14 @@
-default : cfp2020.html
+default : ppdp2020cfp.html
 
-all : cfp2020.txt cfp2020.pdf cfp2020.html
+all : ppdp2020cfp.txt ppdp2020cfp.pdf ppdp2020cfp.html
 
 # plain is not very impressive: headings are not underlined
 %.txt : %.md
 	pandoc --from=markdown --to=plain $< -o $@
 
-%.html : %.md cfp2020.yaml pandoc.css caption.css Makefile
+%.html : %.md ppdp2020cfp.yaml pandoc.css caption.css Makefile
 	pandoc --from=markdown --to=html5 -s --shift-heading-level-by=-1 --css=pandoc.css --css=caption.css $<  -o $@
-# cfp2020.yaml
+# ppdp2020cfp.yaml
 
 %.pdf : %.md
 	pandoc --from=markdown $< -o $@
