@@ -3,8 +3,10 @@ PPDP 2020 Call For Papers
 
 The 22nd International Symposium on
 Principles and Practice of Declarative Programming,
-[PPDP 2020](http://www.cse.chalmers.se/~abel/ppdp20/),
+[PPDP 2020](http://www.cse.chalmers.se/~abela/ppdp20/), (**link corrected**)
 held 8-10 September 2020 at the University of Bologna, Italy.
+
+TL;DR  Abstract deadline: 11 May; paper deadline: 15 May.
 
 Scope
 -----
@@ -142,20 +144,20 @@ retract a paper that is not presented. The PC chair may also retract a
 paper if complaints about the paper's correctness are raised which
 cannot be resolved by the final paper deadline.
 
-
-Table: Important dates
+Important dates
+---------------
 
 --------------------------------  ----- ---- ----------
 Title and abstract registration:     11 May  2020 (AoE)
 Paper submission:                    15 May  2020 (AoE)
 Rebuttal period (48 hours):       22-23 June 2020 (AoE)
 Author notification:                  3 July 2020
-Final paper version:                 24 July 2020
+Final paper version:                 21 July 2020
 Conference:                        8-10 Sept 2020
 --------------------------------  ----- ---- ----------
 
-
-Table: Organization
+Organization
+------------
 
 -------------------------  --------------------  ---------------------
 Program committee chair:   Andreas Abel,         Gothenburg University
