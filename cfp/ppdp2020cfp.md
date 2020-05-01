@@ -7,7 +7,7 @@ Principles and Practice of Declarative Programming,
 hosted 8-10 September 2020 by the University of Bologna, Italy.
 
 **Due to the COVID-19 pandemic, PPDP 2020 will take place online.
-The submission, review, and publicaiton process is unaffected.
+The submission, review, and publication process is unaffected.
 However, short extensions are available on request.**
 
 TL;DR  Abstract deadline: 11 May; paper deadline: 15 May; extensions available.
@@ -153,12 +153,12 @@ cannot be resolved by the final paper deadline.
 Important dates
 ---------------
 
-**The organizers appreciate that potential authors may be
+The organizers appreciate that potential authors may be
 disadvantaged by the COVID-19 pandemic and resulting disruption.
-To encourage submissions, short extensions are available on request.
+**To encourage submissions, short extensions are available on request.**
 To request an extension, please register an abstract before the
 abstract deadline and write to the PC chair before the submission
-deadline explaining the circumstances and duration of the extension.**
+deadline explaining the circumstances and duration of the extension.
 
 --------------------------------  ----- ---- ----------
 Title and abstract registration:     11 May  2020 (AoE)
