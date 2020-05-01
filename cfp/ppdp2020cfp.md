@@ -142,8 +142,10 @@ policy](http://www.acm.org/publications/policies/plagiarism_policy).
 Requirements for publication
 ----------------------------
 
+**Due to the shift to an online event, registration fees will be
+decreased to cover only the costs of publication and online event hosting.**
 At least one author of each accepted submission will be expected to
-attend and present the work at the conference. The PC chair may
+register and present the work at the conference. The PC chair may
 retract a paper that is not presented. The PC chair may also retract a
 paper if complaints about the paper's correctness are raised which
 cannot be resolved by the final paper deadline.
