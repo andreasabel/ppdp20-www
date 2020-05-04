@@ -172,8 +172,30 @@ Conference:                        8-10 Sept 2020
 Organization
 ------------
 
--------------------------  --------------------  ---------------------
-Program committee chair:   Andreas Abel,         Gothenburg University
+-------------------------  --------------------  ---------------------------
+Program committee chairs:  Andreas Abel,         Gothenburg University
+                           James Cheney,         The University of Edinburgh
+Steering committee chair:  James Cheney,         The University of Edinburgh
 General chair:             Maurizio Gabbrielli,  University of Bologna
-Steering committee chair:  James Cheney,         Edinburgh University
--------------------------  --------------------  ---------------------
+-------------------------  --------------------  ---------------------------
+
+Program committee
+-----------------
+
+-----------------------  ------------------------------------------------------
+Andreas Abel (co-chair)  Gothenburg University, SE
+Kenichi Asai             Ochanomizu University, Tokyo, JP
+James Cheney (co-chair)  The University of Edinburgh, UK
+Ugo Dal Lago             University of Bologna, IT & INRIA Sophia Antipolis, FR
+Thom Fruehwirth          University of Ulm, DE
+Michael Hanus            Christian-Albrechts-Universität zu Kiel, DE
+Jacob Howe               City, University of London, UK
+Fred Mesnard             Université de la Réunion, FR
+Henrik Nilsson           University of Nottingham, UK
+David Sabel              Ludwig Maximilians University of Munich, DE
+Claudio Sacerdoti Coen   University of Bologna, IT
+Ulrich Schöpp            fortiss GmbH, DE
+Martin Sulzmann          Karlsruhe University of Applied Sciences, DE
+Christine Tasson         Université Paris Diderot & IRIF, FR
+Peter Van Roy            Université catholique de Louvain, BE
+-----------------------  ------------------------------------------------------
