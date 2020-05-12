@@ -10,7 +10,7 @@ hosted 8-10 September 2020 by the University of Bologna, Italy.
 The submission, review, and publication process is unaffected.
 However, short extensions are available on request.**
 
-TL;DR  Abstract deadline: 11 May; paper deadline: 15 May; extensions available.
+TL;DR  Abstract deadline: **18 May**; paper deadline: **22 May** (extended).
 Submissions at:  https://easychair.org/conferences/?conf=ppdp2020
 
 Scope
@@ -167,8 +167,8 @@ abstract deadline and write to the PC chair before the submission
 deadline explaining the circumstances and duration of the extension.
 
 --------------------------------  ----- ---- ----------
-Title and abstract registration:     11 May  2020 (AoE)
-Paper submission:                    15 May  2020 (AoE)
+Title and abstract (extended):       18 May  2020 (AoE)
+Paper submission (extended):         22 May  2020 (AoE)
 Rebuttal period (48 hours):       22-23 June 2020 (AoE)
 Author notification:                  3 July 2020
 Final paper version:                 21 July 2020
