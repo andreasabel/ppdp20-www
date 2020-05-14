@@ -1,6 +1,10 @@
 PPDP 2020 Call For Papers
 =========================
 
+TL;DR
+Abstract deadline: **18 May**; paper deadline: **22 May** (extended).
+Submissions at:  https://easychair.org/conferences/?conf=ppdp2020
+
 The 22nd International Symposium on
 Principles and Practice of Declarative Programming,
 [PPDP 2020](http://www.cse.chalmers.se/~abela/ppdp20/),
@@ -8,10 +12,8 @@ hosted 8-10 September 2020 by the University of Bologna, Italy.
 
 **Due to the COVID-19 pandemic, PPDP 2020 will take place online.
 The submission, review, and publication process is unaffected.
-However, short extensions are available on request.**
-
-TL;DR  Abstract deadline: **18 May**; paper deadline: **22 May** (extended).
-Submissions at:  https://easychair.org/conferences/?conf=ppdp2020
+However, the deadlines have been extended by a week
+to accommodate for the situation.**
 
 Scope
 -----
